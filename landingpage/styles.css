@@ -1,0 +1,158 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header {
+    background: #ffffff;
+    color: #000000;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #ff9900 3px solid;
+}
+
+header a, header p {
+    color: #000000;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+header ul {
+    padding: 0;
+    list-style: none;
+}
+.hader1{
+    background:#616162;
+}
+.hader1 .contact-btn{
+    background: #ff9900;
+    color: #fff;
+    padding: 5px 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 5px;
+}
+header .logo {
+    float: left;
+}
+
+header nav {
+    float: right;
+    margin-top: 10px;
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-left: 5px;
+}
+
+header .contact-btn {
+    background: #ff9900;
+    color: #fff;
+    padding: 5px 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.header-contact {
+    float: right;
+    margin-top: 10px;
+}
+
+.hero {
+    background: url('https://media.istockphoto.com/id/1345384816/photo/construction-industry-and-engineering-in-post-recession-period.jpg?s=612x612&w=0&k=20&c=3sK6hLkePixyVhbjrSDKATOx9cVnbor2d2qASBkUucM=') no-repeat center center/cover;
+    color: #000000;
+    height: 600px;
+    text-align: start;
+    padding-top: 200px;
+
+}
+
+.hero .btn {
+    display: inline-block;
+    background: #ff9900;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.services {
+    background:#4f5255;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.services .service-box {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.about {
+    text-align: start;
+    padding: 30px 0;
+    
+}
+.about .btn{
+     display: inline-block;
+    background: #ff9900;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.our-services {
+    background: #f4f4f4;
+    text-align: center;
+    padding: 30px 0;
+    background:#4f5255;
+
+}
+
+.our-services .our-service-box1 {
+    background: url('https://img.freepik.com/premium-photo/cropped-hand-design-professionals-brainstorming-office_1048944-24675093.jpg?size=626&ext=jpg&ga=GA1.1.625521948.1696527457&semt=ais_user_b') no-repeat center center/cover;
+    display: inline-block;
+    width: 400px;
+    height: 250px;
+    border-radius: 5px;
+}
+.our-services .our-service-box2 {
+    background: url('https://img.freepik.com/free-photo/top-view-women-working-together-office_23-2150062336.jpg?size=626&ext=jpg&ga=GA1.1.625521948.1696527457&semt=ais_user_b') no-repeat center center/cover;
+    display: inline-block;
+     width: 400px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.our-services .our-service-box3 {
+    background: url('https://img.freepik.com/premium-photo/ux-graphic-designer-creative-sketch-planning-application-process-development-prototype-wireframe-web-mobile-phone-user-experience-concept_265022-64103.jpg?size=626&ext=jpg&ga=GA1.1.625521948.1696527457&semt=ais_user_b') no-repeat center center/cover;
+    display: inline-block;
+     width: 400px;
+    height: 250px;
+    border-radius: 5px;
+}
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
